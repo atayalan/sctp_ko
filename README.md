@@ -1,5 +1,6 @@
-# sctp_ko
-Linux SCTP driver release objects.
+# Ataya Linux SCTP Release Image
+
+This repository contains the Linux SCTP driver module objects only.
 
 SCTP driver is kept in a separate branch based on SCTP driver version.
 
